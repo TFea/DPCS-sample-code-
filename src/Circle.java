@@ -9,7 +9,7 @@ public class Circle {
 		radius = radiusGiven;		  
 	}
 	
-	//Constructor
+	//Constructor.
 	public Circle() {  
 		radius = 0.0;		  
 	}
